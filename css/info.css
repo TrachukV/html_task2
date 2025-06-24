@@ -1,0 +1,49 @@
+.nav-link.active {
+	color: rgb(145, 255, 0) !important;
+	font-weight: bold;
+  }
+  
+  .navbar-nav .dropdown:hover > .dropdown-menu {
+	display: block;
+	margin-top: 0;
+  }
+  .info-background {
+	background: url('../assets/images/background.avif') center/cover no-repeat fixed;
+	min-height: 100vh;
+	padding-bottom: 60px;
+  }
+  .main-background {
+	background: url('../assets/images/info_bg.webp') center/cover no-repeat fixed;
+	min-height: 100vh;
+	padding-bottom: 60px;
+  }
+  
+  .section-title {
+	color: rgb(145, 255, 0);
+	font-family: 'PermanentMarker', cursive;
+	font-size: 2rem;
+  }
+  
+  .card {
+	background-color: rgba(0, 0, 0, 0.5);
+	border: 2px solid rgb(145, 255, 0);
+	border-radius: 15px;
+  }
+  
+  .card-img-top {
+	height: 200px;
+	object-fit: cover;
+	width: 100%;
+  }
+  
+  .card-title {
+	color: rgb(145, 255, 0);
+	font-family: 'PermanentMarker', cursive;
+  }
+  
+  .card-text {
+	color: white;
+	font-family: sans-serif;
+	font-size: 0.95rem;
+  }
+  

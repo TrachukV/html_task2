@@ -1,0 +1,27 @@
+.nav-link.active {
+	color: rgb(145, 255, 0) !important;
+	font-weight: bold;
+  }
+  
+  .navbar-nav .dropdown:hover > .dropdown-menu {
+	display: block;
+	margin-top: 0;
+  }
+  
+.main-background {
+	background: url('../assets/images/about_bg.jpg') no-repeat center center fixed;
+	background-size: cover;
+  }
+  
+  .section-title {
+	font-family: 'PermanentMarker', cursive;
+	color: rgb(145, 255, 0);
+  }
+  
+  .contact-form {
+	background-color: rgba(0, 0, 0, 0.5);
+	border: 2px solid rgb(145, 255, 0);
+	border-radius: 10px;
+	max-width: 600px;
+  }
+  

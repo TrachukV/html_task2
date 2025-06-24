@@ -1,0 +1,18 @@
+@font-face {
+	font-family: 'PermanentMarker';
+	src: url('../assets/fonts/PermanentMarker-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+  }
+
+  .brand-text {
+	font-family: 'PermanentMarker', cursive;
+	font-size: 1.5rem;
+	color: white;
+  }
+
+  .menu-text {
+	font-family: 'PermanentMarker', cursive;
+	font-size: 1rem	;
+	color: gray;
+  }
